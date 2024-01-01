@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 public class Name1()
 {
 
@@ -5,9 +6,15 @@ public class Name1()
 
 }
 
+=======
+>>>>>>> Stashed changes
 public class Name()
 {
 
 	//b2b
 
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
