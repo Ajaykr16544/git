@@ -1,7 +1,9 @@
 ajay is my name 
 what are you doing
+<<<<<<< Updated upstream
 
 public class ClassA()
+
 {
 
 
@@ -9,3 +11,19 @@ public class ClassA()
 
 
 }
+
+ 
+public Class  ClassB()
+
+{
+
+
+
+
+
+}
+
+
+
+
+
